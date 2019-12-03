@@ -1,2 +1,2 @@
 # games
-Tic Tac Toe game
+simple code prep for games
